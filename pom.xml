@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-filter</artifactId>
-    <version>0.4.6</version>
+    <version>0.4.6-SNAPSHOT</version>
     <name>angular-filter</name>
     <description>WebJar for angular-filter</description>
     <url>http://webjars.org</url>
