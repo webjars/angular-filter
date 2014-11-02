@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-filter</artifactId>
-    <version>0.4.9-SNAPSHOT</version>
+    <version>0.4.9</version>
     <name>angular-filter</name>
     <description>WebJar for angular-filter</description>
     <url>http://webjars.org</url>
@@ -49,7 +49,7 @@
         <url>http://github.com/webjars/angular-filter</url>
         <connection>scm:git:https://github.com/webjars/angular-filter.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/angular-filter.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>angular-filter-0.4.9</tag>
     </scm>
     
     <dependencies>
